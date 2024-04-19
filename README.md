@@ -17,7 +17,7 @@ The repository contains all the necessary python scripts and files to reproduce 
 ```python
 - data/              (contains the dataset files after ambient RNA filtering and the pairwise blast results)
 - scripts/           (contains python scripts for data processing, analysis, and visualization)
-- results/           (stores the generated plots and analysis results)
+- supplementary_results/           (stores the generated plots and analysis results)
 - README.md          (the main readme file)
 - Installation.md     (Commands to install required python packages)
 ```
